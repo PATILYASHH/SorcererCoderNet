@@ -1,4 +1,6 @@
-# This is overview of changes i made . you can delete file .
+**This is an overview of the changes I made by adding new learning resources. You can delete this after reviewing.**
+
+
 
 # SorcererCoderNet
 
